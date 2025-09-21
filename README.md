@@ -9,10 +9,10 @@ My goal is to demonstrate both **theoretical knowledge** and **hands-on practice
 ## 📘 Courses
 
 ### [Course 1: Foundations of Cybersecurity](./course1-foundations)
-- [Module 1 Summary](./course1-foundations/module1-summary.md)
-- [Module 2 Summary](./course1-foundations/module2-summary.md)
-- [Module 3 Summary](./course1-foundations/module3-summary.md)
-- [Module 4 Summary](./course1-foundations/module4-summary.md)
+- [Module 1 Summary](./module1-summary.md)
+- [Module 2 Summary](module1-summary.md)
+- [Module 3 Summary](module3-summary.md)
+- [Module 4 Summary](module4-summary.md)
 
 ### [Course 2: Manage Security Risks](./course2-manage-risks)
 - [Module 1 Summary](./course2-manage-risks/module1-summary.md)
